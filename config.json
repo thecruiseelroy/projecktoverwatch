@@ -1,0 +1,10 @@
+{
+    "openrouter": {
+        "api_key": "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",
+        "model": "deepseek/deepseek-r1-distill-llama-8b"
+    },
+    "dataforseo": {
+        "api_login": "sean@mediamasters.ca",
+        "api_password": "43dd9ffafc698610"
+    }
+} 
