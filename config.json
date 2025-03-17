@@ -1,10 +1,10 @@
 {
     "openrouter": {
-        "api_key": "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",
+        "api_key": "Enter Open Router API Key,"
         "model": "deepseek/deepseek-r1-distill-llama-8b"
     },
     "dataforseo": {
-        "api_login": "sean@mediamasters.ca",
-        "api_password": "43dd9ffafc698610"
+        "api_login": "Enter DataForSeo API Login",
+        "api_password": "Enter DataForSeo API key"
     }
 } 
